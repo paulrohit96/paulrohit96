@@ -4,11 +4,11 @@
 
 ## ✨ About Me
 
-🎓 I'm a passionate Data Science graduate student at **Pace University**, with a solid foundation in **Banking & Finance** and **Electronics Engineering**.  
-💼 I bring over **3.5 years of experience** as a Business Analyst, delivering real-world data-driven solutions in FinTech and Compliance.  
-🔍 I love digging through data, identifying patterns, and transforming insights into action.  
-🧠 My work has spanned from fraud detection systems to predictive models for business forecasting.  
-🏆 Recipient of the **Spot Award** at Jocata for innovation and collaboration.
+🎓 Data Science graduate from Pace University (MS, 2025) with an MBA in Banking & Finance — a blend of financial domain depth and hands-on analytics.
+💼 5+ years of experience across financial, data, and business analysis, currently in Corporate FP&A at Humana (Medicare & Medicaid segment), previously in FP&A and Corporate Finance at Fortis Healthcare.
+🔍 I work at the intersection of finance and data — building models, dashboards, and automated pipelines in Python and SQL that turn healthcare claims, CMS, and financial data into decisions.
+🧠 My project work spans fraud detection using anomaly-based ML models, predictive analytics, and large-scale exploratory data analysis.
+📊 Comfortable owning the full workflow: data quality validation → analysis → modeling → visualization → presenting to executives.
 
 ---
 
@@ -31,6 +31,12 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### Finance Skills
+Financial Modelling
+Budgeting
+Variance Analysis
+Forecasting
 
 ---
 
