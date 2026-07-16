@@ -37,10 +37,10 @@
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Finance Skills
-![Financial Modelling]
-![Budgeting]
-![Variance Analysis]
-![Forecasting]
+Financial Modelling, 
+Budgeting, 
+Variance Analysis, 
+Forecasting
 
 ---
 
