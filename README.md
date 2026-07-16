@@ -60,4 +60,4 @@ Built predictive models to understand user purchasing behavior and preferences.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/paul-rohit-jangareddi-5391a9158/)
 - 💻 [GitHub](https://github.com/paulrohit96)
-- 📧 Email: paulrohitjangareddi@gmail.com
+- 📧 Email: paul.jangareddi@mailmywork.com
